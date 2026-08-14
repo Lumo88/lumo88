@@ -23,7 +23,8 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 ### Ingeniería de datos
 - ETL & Pipelines  
 - Modelado de datos  
-- APIs & Web Scraping  
+- APIs & Web Scraping
+- CI/CD
 - Automatización de procesos
 
 ### Herramientas
@@ -40,9 +41,12 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 
 ### **[Spain Business Resilience Analytics](https://github.com/Lumo88/spain-business-resilience-analytics.git)**
 Análisis de la resiliencia empresarial en España mediante datos del INE (IPC, sociedades constituidas y disueltas) utilizando un modelo dimensional en esquema estrella.
+
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling. 
 
 ### **[Una saga de éxito: el caso "EL Señor de los Anillos"](https://github.com/Lumo88/lord-of-the-rings-success-analysis.git)**
+Análisis del universo cinematográfico de "El Señor de los Anillos" y "El Hobbit" con el objetivo de entender qué factores explican el éxito de una saga a nivel narrativo, económico y de recepción del público.
+
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling.  
 
 
