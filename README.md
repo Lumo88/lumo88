@@ -60,8 +60,8 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 
 ## Proyectos destacados
 
-### **[Spain Business Resilience Analytics](https://github.com/Lumo88/spain-business-resilience-analytics.git)**
-Proyecto end-to-end de Data Engineering y Analytics para analizar la resiliencia empresarial en España a partir de datos del INE. Incluye extracción mediante API, procesos ETL, transformación y validación de datos, modelado dimensional en esquema estrella y visualización en Power BI.
+### **[Resiliencia empresarial en España](https://github.com/Lumo88/spain-business-resilience-analytics.git)**
+Proyecto **end-to-end de Data Engineering y Analytics** para analizar la resiliencia empresarial en España a partir de datos del INE. Incluye **extracción mediante API, procesos ETL, transformación y validación de datos, modelado dimensional en esquema estrella y visualización en Power BI.**
 
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling. 
 
