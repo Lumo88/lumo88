@@ -1,16 +1,27 @@
 # 👋 Hola, soy Lourdes
 
-**Data Engineer | Python, SQL, ETL & Data Pipelines | Supply Chain & Business Intelligence**  
+**Data Engineer | Python, SQL, ETL & Data Pipelines | Supply Chain & Data Analytics**  
 
 ---
 
 ## Sobre mí
-Especializada en **pipelines ETL robustos**, **SQL avanzado**, **EDA profundo** y **modelado de datos**.  
-Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una visión técnica y de negocio que convierte datos en decisiones accionables.
+Especializada en **pipelines ETL robustos, SQL avanzado, análisis exploratorio de datos (EDA) y modelado de datos.**
+Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una visión técnica y de negocio que convierte datos en **información fiable para la toma de decisiones.**
 
 - Combino experiencia operativa real con análisis técnico avanzado.  
 - Me centro en **backend del dato**: ingesta, limpieza, transformación y automatización.  
 - Disfruto diseñando procesos reproducibles, eficientes y escalables.  
+
+---
+
+## Qué hago
+
+- Diseño y automatizo procesos ETL y Data Pipelines.
+- Transformo datos operativos en datasets fiables y preparados para análisis.
+- Integro datos procedentes de APIs y fuentes web.
+- Desarrollo procesos de validación y control de calidad del dato.
+- Construyo modelos de datos orientados a Analytics y Business Intelligence.
+- Automatizo procesos repetitivos para mejorar la eficiencia operativa.
 
 ---
 
@@ -50,7 +61,7 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 ## Proyectos destacados
 
 ### **[Spain Business Resilience Analytics](https://github.com/Lumo88/spain-business-resilience-analytics.git)**
-Análisis de la resiliencia empresarial en España mediante datos del INE (IPC, sociedades constituidas y disueltas) utilizando un modelo dimensional en esquema estrella.
+Proyecto end-to-end de Data Engineering y Analytics para analizar la resiliencia empresarial en España a partir de datos del INE. Incluye extracción mediante API, procesos ETL, transformación y validación de datos, modelado dimensional en esquema estrella y visualización en Power BI.
 
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling. 
 
