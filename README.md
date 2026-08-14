@@ -66,11 +66,13 @@ Proyecto end-to-end de Data Engineering y Analytics para analizar la resiliencia
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling. 
 
 ### **[Una saga de éxito: el caso "EL Señor de los Anillos"](https://github.com/Lumo88/lord-of-the-rings-success-analysis.git)**
-Análisis del universo cinematográfico de "El Señor de los Anillos" y "El Hobbit" con el objetivo de entender qué factores explican el éxito de una saga a nivel narrativo, económico y de recepción del público.
+Proyecto de **Data Analytics** aplicado al universo cinematográfico de El Señor de los Anillos y El Hobbit. El análisis combina **procesamiento y transformación de datos, EDA y visualización** para identificar patrones y estudiar los factores asociados al éxito de la saga desde una perspectiva **narrativa, económica y de recepción del público.**
 
-Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling.  
+Pipeline: ingesta → limpieza → transformación → análisis → visualización y storytelling.
 
 ### **[Análisis Exploratorio del Programa de Lealtad de Aerolínea](https://github.com/Lumo88/EDA-aerolinea.git)**
-Pipeline completo: ingesta → limpieza → transformación → visualización.  
+Proyecto de **Data Analytics** centrado en el análisis de un programa de fidelización de una aerolínea. A través de **EDA y visualización de datos**, se identifican patrones de comportamiento de los pasajeros, tendencias estacionales y relaciones entre el perfil socioeconómico de los clientes y su **Customer Lifetime Value (CLV)**.
+
+Pipeline: ingesta → limpieza → transformación → análisis → visualización y storytelling. 
 
 ---
