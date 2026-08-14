@@ -16,23 +16,33 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 
 ## Stack técnico
 
-### Lenguajes y librerías
-- Python (Pandas, Numpy, Matplotlib, Seaborn, pytest)  
+### Programación y análisis de datos
+- Python — Pandas, NumPy, Matplotlib, Seaborn
 - SQL avanzado
+- Análisis exploratorio de datos (EDA)
 
 ### Ingeniería de datos
-- ETL & Pipelines  
-- Modelado de datos  
-- APIs & Web Scraping
-- CI/CD
+- ETL y Data Pipelines
+- Modelado de datos
+- Calidad y validación de datos
+- APIs y Web Scraping
 - Automatización de procesos
 
-### Herramientas
-- Power BI · Tableau  
-- Git & GitHub  
+### Cloud y DevOps
+- Microsoft Azure
+- Git y GitHub
+- CI/CD
+- pytest
+
+### Business Intelligence
+- Power BI
+- Tableau
 - Excel avanzado
-- Kanban
-- Manejo avanzado de ERP/CRM
+
+### Negocio y procesos
+- Supply Chain y Operaciones
+- Optimización de procesos
+- Gestión avanzada de ERP/CRM
 
 ---
 
