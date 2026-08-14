@@ -70,11 +70,6 @@ Análisis del universo cinematográfico de "El Señor de los Anillos" y "El Hobb
 
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling.  
 
-
-### **[Optimización de talento y retención de empleados](https://github.com/Lumo88/project-da-promo-65-modulo-3-team-1.git)**
-Análisis profundo para detectar patrones que causen la rotación de personal, sus causas y proposición de soluciones estratégicas basadas en datos.
-
-
 ### **[Análisis Exploratorio del Programa de Lealtad de Aerolínea](https://github.com/Lumo88/EDA-aerolinea.git)**
 Pipeline completo: ingesta → limpieza → transformación → visualización.  
 
