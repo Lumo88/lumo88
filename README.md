@@ -1,6 +1,6 @@
 # 👋 Hola, soy Lourdes
 
-**Data Analyst | SQL, Power BI, Tableau, Python, Excel | Business Intelligence & Supply Chain Specialist**  
+**Data Engineer | Python, SQL, ETL & Data Pipelines | Supply Chain & Business Intelligence**  
 
 ---
 
@@ -17,7 +17,7 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 ## Stack técnico
 
 ### Lenguajes y librerías
-- Python (Pandas, Numpy, Matplotlib, Seaborn)  
+- Python (Pandas, Numpy, Matplotlib, Seaborn, pytest)  
 - SQL avanzado
 
 ### Ingeniería de datos
@@ -35,9 +35,14 @@ Tras 12+ años trabajando con datos operativos y de Supply Chain, aporto una vis
 
 ---
 
+
 ## Proyectos destacados
 
-### **[Una saga de éxito: el caso "EL Señor de los Anillos"](https://github.com/iramana8/da-project-promo-65-modulo-4-team-2.git)**
+### **[Spain Business Resilience Analytics](https://github.com/Lumo88/spain-business-resilience-analytics.git)**
+Análisis de la resiliencia empresarial en España mediante datos del INE (IPC, sociedades constituidas y disueltas) utilizando un modelo dimensional en esquema estrella.
+Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling. 
+
+### **[Una saga de éxito: el caso "EL Señor de los Anillos"](https://github.com/Lumo88/lord-of-the-rings-success-analysis.git)**
 Pipeline completo: ingesta → limpieza → transformación → visualización y storytelling.  
 
 
